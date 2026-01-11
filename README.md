@@ -129,4 +129,5 @@ Refer to the session recording here → [https://www.youtube.com/watch?v=Bg2U_Cg
 Google is your best friend. You can refer to other simple Git and GitHub videos in YouTube.
 - Name: Saniya Manoj
 - Task: Completed GitHub Basics
+- Midhun CC (ccmidhun)
 
